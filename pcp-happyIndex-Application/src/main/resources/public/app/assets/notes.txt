@@ -1,0 +1,5 @@
+img:    -> bilder
+sass:   -> allg. Styles
+    => base: settings: - definition der variablen
+             main:     - hauptstyle -> HTML Body
+    =>
